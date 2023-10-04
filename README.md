@@ -11,7 +11,7 @@ I'm a back-end developer who always wants to improve...
  
  let primarySkillset = "BackEnd Development"
  let favorite_languages = ["JavaScript", "TypeScript" "NodeJS", "Express"]  
- let education = "High School Mechanical Engineering"
+ let education = "Istanbul Arel University Computer Programming"
 ```
 
 ## **Skills:**  
