@@ -16,7 +16,7 @@ I'm a back-end developer who always wants to improve...
 
 ## **Skills:**  
 
-[![Top Langs](https://cdn.uaerman.dev/images/skills.svg)](https://uaerman.dev)
+[![Top Langs](https://bucket.umurcan.dev/images/skills.svg)](https://umurcan.dev)
 
 ## **GitHub statistics**
 
